@@ -1,0 +1,12 @@
+load_data
+MyCrossValid
+estimate_sigma
+MySVM2
+save_result
+MySVMROC
+roc
+MyRankBoost
+ROC_SSL
+MyOPAUC
+MySSRankBoost
+MySVMlin
